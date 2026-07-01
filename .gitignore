@@ -1,0 +1,8 @@
+# Original messy notebook — not for submission
+notebook9be56ec1d8 (6).ipynb
+
+# Model weights are downloaded separately from Kaggle
+dgmr_model_files/*.pth
+
+# git internals
+.git/
