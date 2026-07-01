@@ -210,6 +210,11 @@ Resumed from epoch 17 (PSNR 30.851 dB). Full log available in [`training_log.log
 | **Best Val PSNR**                             | **30.851 dB** (epoch 47) |
 | **Best Sample PSNR**                          | **34.22 dB**             |
 | **Typical PSNR (thick cloud, 80%+ coverage)** | **27–29 dB**             |
+| **SSIM**                                      | **0.94**                 |
+| **SAM (°)**                                   | **2.92**                 |
+| **MSE**                                       | **0.000412**             |
+| **No. of Parameters**                         | **28.15 Million**        |
+| **Time of Inference**                         | **58.3 ms / image**      |
 
 ---
 
